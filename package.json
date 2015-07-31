@@ -1,0 +1,24 @@
+{
+  "name": "gavinzhs
+  "version": "0.1",
+  "description": "gavinzhs test github
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gavinzhs/gavinzhs.git"
+  },
+  "keywords": [
+    "gavinzhs",
+  ],
+  "author": "gavin",
+  "license": "me",
+  "bugs": {
+    "url": "https://github.com/gavinzhs/gavinzhs/issues"
+  },
+  "homepage": "https://github.com/gavinzhs/gavinzhs",
+  "devDependencies": {
+  }
+}
